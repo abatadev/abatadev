@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm abatadev</h1>
-<h3 align="center">Passionate mobile app developer from the Philippines.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abatadev&label=Profile%20views&color=0e75b6&style=flat" alt="abatadev" /> </p>
 
