@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm abatadev</h1>
 
 <center>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abatadev&show_icons=true&locale=en" alt="abatadev" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abatadev&show_icons=true&locale=en" alt="abatadev" />
 </center>
 
